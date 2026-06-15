@@ -1,0 +1,579 @@
+{
+  "last_updated": "15/6/2026, 20.02.33 WIB",
+  "data": [
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 1",
+      "nama": "Abigail Rachel",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 2",
+      "nama": "Angelina Christy",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 3",
+      "nama": "Catherina Vallencia",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 5",
+      "nama": "Michelle Levia",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 1",
+      "nama": "Abigail Rachel",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 2",
+      "nama": "Angelina Christy",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 3",
+      "nama": "Catherina Vallencia",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 4",
+      "nama": "Fiony Alveria",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 4",
+      "nama": "Fiony Alveria",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 6",
+      "nama": "Hillary Abigail",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 7",
+      "nama": "Michelle Alexandra",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 6",
+      "nama": "Hillary Abigail",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 1",
+      "nama": "Freya Jayawardana",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 4",
+      "nama": "Marsha Lenathea",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 1",
+      "nama": "Freya Jayawardana",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 4",
+      "nama": "Marsha Lenathea",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 2",
+      "nama": "Oline Manuel",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 3",
+      "nama": "Adeline Wijaya",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 2",
+      "nama": "Oline Manuel",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 3",
+      "nama": "Adeline Wijaya",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 4",
+      "nama": "Cornelia Vanisa",
+      "terjual": 78,
+      "sisa": 2
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 2",
+      "nama": "Kathrina Irene",
+      "terjual": 72,
+      "sisa": 8
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
+      "terjual": 68,
+      "sisa": 12
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 7",
+      "nama": "Jazzlyn Trisha",
+      "terjual": 64,
+      "sisa": 16
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 7",
+      "nama": "Victoria Kimberly",
+      "terjual": 62,
+      "sisa": 18
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 7",
+      "nama": "Jazzlyn Trisha",
+      "terjual": 62,
+      "sisa": 18
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 1",
+      "nama": "Alya Amanda",
+      "terjual": 62,
+      "sisa": 18
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 1",
+      "nama": "Indah Cahya",
+      "terjual": 60,
+      "sisa": 20
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 3",
+      "nama": "Aurhel Alana",
+      "terjual": 60,
+      "sisa": 20
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 1",
+      "nama": "Indah Cahya",
+      "terjual": 57,
+      "sisa": 23
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
+      "terjual": 57,
+      "sisa": 23
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 3",
+      "nama": "Grace Octaviani",
+      "terjual": 56,
+      "sisa": 24
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 7",
+      "nama": "Michelle Alexandra",
+      "terjual": 56,
+      "sisa": 24
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 4",
+      "nama": "Cornelia Vanisa",
+      "terjual": 54,
+      "sisa": 26
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 7",
+      "nama": "Victoria Kimberly",
+      "terjual": 54,
+      "sisa": 26
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 53,
+      "sisa": 27
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 5",
+      "nama": "Michelle Levia",
+      "terjual": 52,
+      "sisa": 28
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 52,
+      "sisa": 28
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 3",
+      "nama": "Grace Octaviani",
+      "terjual": 48,
+      "sisa": 32
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 2",
+      "nama": "Kathrina Irene",
+      "terjual": 46,
+      "sisa": 34
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 6",
+      "nama": "Fritzy Rosmerian",
+      "terjual": 44,
+      "sisa": 36
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 6",
+      "nama": "Fritzy Rosmerian",
+      "terjual": 44,
+      "sisa": 36
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 6",
+      "nama": "Mutiara Azzahra",
+      "terjual": 41,
+      "sisa": 39
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 6",
+      "nama": "Mutiara Azzahra",
+      "terjual": 41,
+      "sisa": 39
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 5",
+      "nama": "Cynthia Yaputera",
+      "terjual": 40,
+      "sisa": 40
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 7",
+      "nama": "Ribka Budiman",
+      "terjual": 38,
+      "sisa": 42
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 37,
+      "sisa": 43
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 1",
+      "nama": "Alya Amanda",
+      "terjual": 34,
+      "sisa": 46
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 1",
+      "nama": "Lulu Salsabila",
+      "terjual": 33,
+      "sisa": 47
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
+      "terjual": 30,
+      "sisa": 50
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 2",
+      "nama": "Anindya Ramadhani",
+      "terjual": 30,
+      "sisa": 50
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 3",
+      "nama": "Aurhel Alana",
+      "terjual": 30,
+      "sisa": 50
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 26,
+      "sisa": 54
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 1",
+      "nama": "Febriola Sinambela",
+      "terjual": 25,
+      "sisa": 55
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
+      "terjual": 24,
+      "sisa": 56
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "jalur": "Jalur 4",
+      "nama": "Cathleen Nixie",
+      "terjual": 21,
+      "sisa": 59
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 1",
+      "nama": "Lulu Salsabila",
+      "terjual": 20,
+      "sisa": 60
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 20,
+      "sisa": 60
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 20,
+      "sisa": 60
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 4",
+      "nama": "Dena Natalia",
+      "terjual": 19,
+      "sisa": 61
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
+      "terjual": 19,
+      "sisa": 61
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 7",
+      "nama": "Ribka Budiman",
+      "terjual": 18,
+      "sisa": 62
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 2",
+      "nama": "Anindya Ramadhani",
+      "terjual": 18,
+      "sisa": 62
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 5",
+      "nama": "Cynthia Yaputera",
+      "terjual": 16,
+      "sisa": 64
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "jalur": "Jalur 3",
+      "nama": "Raisha Syifa",
+      "terjual": 15,
+      "sisa": 65
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "jalur": "Jalur 6",
+      "nama": "Desy Natalia",
+      "terjual": 14,
+      "sisa": 66
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 14,
+      "sisa": 66
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
+      "terjual": 12,
+      "sisa": 68
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "jalur": "Jalur 3",
+      "nama": "Raisha Syifa",
+      "terjual": 10,
+      "sisa": 70
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 4",
+      "nama": "Dena Natalia",
+      "terjual": 10,
+      "sisa": 70
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "jalur": "Jalur 6",
+      "nama": "Desy Natalia",
+      "terjual": 9,
+      "sisa": 71
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 9,
+      "sisa": 71
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 8",
+      "nama": "Nayla Suji",
+      "terjual": 8,
+      "sisa": 72
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "jalur": "Jalur 5",
+      "nama": "Jesslyn Elly",
+      "terjual": 8,
+      "sisa": 72
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 1",
+      "nama": "Febriola Sinambela",
+      "terjual": 8,
+      "sisa": 72
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "jalur": "Jalur 4",
+      "nama": "Cathleen Nixie",
+      "terjual": 7,
+      "sisa": 73
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 8",
+      "nama": "Nayla Suji",
+      "terjual": 6,
+      "sisa": 74
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "jalur": "Jalur 5",
+      "nama": "Celline Thefani",
+      "terjual": 5,
+      "sisa": 75
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "jalur": "Jalur 5",
+      "nama": "Celline Thefani",
+      "terjual": 4,
+      "sisa": 76
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "jalur": "Jalur 5",
+      "nama": "Jesslyn Elly",
+      "terjual": 3,
+      "sisa": 77
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "jalur": "Jalur 4",
+      "nama": "Gendis Mayrannisa",
+      "terjual": 3,
+      "sisa": 77
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "jalur": "Jalur 4",
+      "nama": "Gendis Mayrannisa",
+      "terjual": 2,
+      "sisa": 78
+    }
+  ]
+}
