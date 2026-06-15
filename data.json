@@ -1,5 +1,5 @@
 {
-  "last_updated": "15/6/2026, 20.23.57 WIB",
+  "last_updated": "15/6/2026, 20.45.09 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -313,8 +313,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Indah Cahya",
-      "terjual": 60,
-      "sisa": 20
+      "terjual": 61,
+      "sisa": 19
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -322,8 +322,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 3",
       "nama": "Aurhel Alana",
-      "terjual": 60,
-      "sisa": 20
+      "terjual": 61,
+      "sisa": 19
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -340,6 +340,15 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Indah Cahya",
+      "terjual": 57,
+      "sisa": 23
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 7",
+      "nama": "Michelle Alexandra",
       "terjual": 57,
       "sisa": 23
     },
@@ -362,20 +371,20 @@
       "sisa": 24
     },
     {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 7",
-      "nama": "Michelle Alexandra",
-      "terjual": 56,
-      "sisa": 24
-    },
-    {
       "sesi": "Sesi 1 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cornelia Vanisa",
+      "terjual": 55,
+      "sisa": 25
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
       "terjual": 54,
       "sisa": 26
     },
@@ -389,22 +398,13 @@
       "sisa": 26
     },
     {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 53,
-      "sisa": 27
-    },
-    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Michelle Levia",
-      "terjual": 53,
-      "sisa": 27
+      "terjual": 54,
+      "sisa": 26
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -452,7 +452,7 @@
       "sisa": 36
     },
     {
-      "sesi": "Sesi 2 (PASSION)",
+      "sesi": "Sesi 1 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
@@ -461,13 +461,13 @@
       "sisa": 38
     },
     {
-      "sesi": "Sesi 1 (PASSION)",
+      "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Mutiara Azzahra",
-      "terjual": 41,
-      "sisa": 39
+      "terjual": 42,
+      "sisa": 38
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -650,6 +650,15 @@
       "sisa": 64
     },
     {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 15,
+      "sisa": 65
+    },
+    {
       "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
@@ -657,15 +666,6 @@
       "nama": "Raisha Syifa",
       "terjual": 15,
       "sisa": 65
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 14,
-      "sisa": 66
     },
     {
       "sesi": "Sesi 3 (PASSION)",
@@ -713,6 +713,15 @@
       "sisa": 71
     },
     {
+      "sesi": "Sesi 2 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 8",
+      "nama": "Nayla Suji",
+      "terjual": 9,
+      "sisa": 71
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -729,15 +738,6 @@
       "nama": "Desy Natalia",
       "terjual": 9,
       "sisa": 71
-    },
-    {
-      "sesi": "Sesi 2 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 8",
-      "nama": "Nayla Suji",
-      "terjual": 8,
-      "sisa": 72
     },
     {
       "sesi": "Sesi 2 (DREAM)",
