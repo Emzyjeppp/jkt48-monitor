@@ -2,30 +2,36 @@ name: JKT48 Auto Fetch Bot
 
 on:
   schedule:
-    # Mengambil data otomatis secara terjadwal (Setiap 5 menit)
+    # Mengambil data otomatis secara terjadwal setiap 5 menit
     - cron: '*/5 * * * *'
-  workflow_dispatch: # Membuat tombol manual jika ingin di-klik paksa refresh kapan saja
+  workflow_dispatch: # Mengaktifkan tombol manual "Run workflow" di halaman GitHub Actions
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    
+    # Membuka izin akses agar bot bisa nge-push/menulis file data.json kembali ke repositori
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
       - name: Fetch API JKT48 & Format Data
         run: |
-          # Ambil data dari kedua event ID JKT48 Anda
+          # Ambil data mentah dari kedua endpoint event JKT48 Anda
           RESPONSE_1=$(curl -s "https://jkt48.com/api/v1/exclusives/EXCD2C/bonus?lang=id")
           RESPONSE_2=$(curl -s "https://jkt48.com/api/v1/exclusives/EX3773/bonus?lang=id")
           
-          # Eksekusi script node sederhana untuk memformat gabungan JSON menjadi rapi flat array
-          node - e "
+          # Jalankan script Node.js instan untuk menyatukan dan merapikan struktur data
+          node -e "
           try {
             const res1 = $RESPONSE_1;
             const res2 = $RESPONSE_2;
             let output = [];
             
+            // Gabungkan array data dari kedua event jika ada
             const gabungData = [...(res1.data || []), ...(res2.data || [])];
             
             gabungData.forEach(sesi => {
@@ -43,24 +49,33 @@ jobs:
               }
             });
             
-            // Sort sisa tiket paling dikit ke atas
+            // Urutkan data otomatis: Sisa stok paling sedikit (hampir habis) ditaruh paling atas
             output.sort((a, b) => a.sisa - b.sisa);
             
+            // Format penanda waktu pembaruan dalam zona waktu WIB (Asia/Jakarta)
             const waktuWIB = new Date().toLocaleString('id-ID', { timeZone: 'Asia/Jakarta' }) + ' WIB';
             const finalJson = { last_updated: waktuWIB, data: output };
             
+            // Simpan hasil akhir ke file data.json
             require('fs').writeFileSync('data.json', JSON.stringify(finalJson, null, 2));
-            console.log('File data.json berhasil digenerate.');
+            console.log('File data.json berhasil diperbarui dengan sukses.');
           } catch(e) {
-            console.error('Gagal memformat JSON:', e.message);
+            console.error('Gagal memproses atau memformat data JSON:', e.message);
             process.exit(1);
           }
           "
 
       - name: Commit and Push Changes
         run: |
+          # Konfigurasi identitas bot git sementara
           git config --global user.name "jkt48-bot"
           git config --global user.email "bot@github.com"
+          
+          # Tambahkan file data.json yang baru dibuat ke staging area
           git add data.json
+          
+          # Lakukan commit, jika tidak ada perubahan data kuota, hentikan proses dengan aman (exit 0)
           git commit -m "Auto update kuota tiket: $(date)" || exit 0
+          
+          # Push pembaruan file langsung ke branch utama
           git push
