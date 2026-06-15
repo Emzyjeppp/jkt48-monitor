@@ -142,16 +142,27 @@
         // Handler perubahan filter tombol Lokasi Surabaya / Yogyakarta
         function setEventFilter(evt) {
             filterEventAktif = evt;
-            ['SEMUA', 'LOVE & DREAM (SBY)', 'PASSION (YOGYA)'].forEach(e => {
-                const btn = document.getElementById(`btn-evt-${e}`);
-                if(btn) {
-                    if(e === evt) {
+            
+            // Daftar nilai evt asli yang akan dicocokkan
+            const daftarEvent = ['SEMUA', 'LOVE & DREAM (SBY)', 'PASSION (YOGYA)'];
+            
+            daftarEvent.forEach(e => {
+                // Trik aman: cari elemen menggunakan querySelector berdasarkan atribut onclick-nya
+                // Cara ini jauh lebih aman daripada menggunakan getElementById jika teks mengandung simbol & ()
+                const btn = document.querySelector(`button[onclick="setEventFilter('${e}')"]`);
+                
+                if (btn) {
+                    if (e === evt) {
+                        // Warna aktif jika dipilih
                         btn.className = "px-4 py-1.5 rounded-md text-xs font-bold bg-sky-600 text-white cursor-pointer transition";
                     } else {
+                        // Warna redup jika tidak dipilih
                         btn.className = "px-4 py-1.5 rounded-md text-xs font-semibold bg-slate-700 hover:bg-slate-600 text-slate-300 cursor-pointer transition";
                     }
                 }
             });
+            
+            // Jalankan penyaringan ulang data tabel
             filterData();
         }
 
