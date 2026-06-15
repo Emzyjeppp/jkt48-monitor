@@ -1,5 +1,5 @@
 {
-  "last_updated": "16/6/2026, 03.51.44 WIB",
+  "last_updated": "16/6/2026, 05.59.51 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -322,8 +322,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 7",
       "nama": "Michelle Alexandra",
-      "terjual": 63,
-      "sisa": 17
+      "terjual": 64,
+      "sisa": 16
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -367,8 +367,17 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 57,
-      "sisa": 23
+      "terjual": 58,
+      "sisa": 22
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 56,
+      "sisa": 24
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -387,15 +396,6 @@
       "nama": "Michelle Levia",
       "terjual": 56,
       "sisa": 24
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 55,
-      "sisa": 25
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -983,6 +983,15 @@
       "sisa": 144
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 76,
+      "sisa": 144
+    },
+    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -990,15 +999,6 @@
       "nama": "Cornelia Vanisa",
       "terjual": 75,
       "sisa": 145
-    },
-    {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 73,
-      "sisa": 147
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -1033,8 +1033,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Adeline Wijaya",
-      "terjual": 60,
-      "sisa": 160
+      "terjual": 61,
+      "sisa": 159
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -1303,8 +1303,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Mutiara Azzahra",
-      "terjual": 12,
-      "sisa": 208
+      "terjual": 13,
+      "sisa": 207
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -1379,6 +1379,15 @@
       "sisa": 212
     },
     {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Raisha Syifa",
+      "terjual": 8,
+      "sisa": 212
+    },
+    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1402,15 +1411,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 8",
       "nama": "Nayla Suji",
-      "terjual": 6,
-      "sisa": 214
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Raisha Syifa",
       "terjual": 6,
       "sisa": 214
     },
