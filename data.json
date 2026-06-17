@@ -1,5 +1,5 @@
 {
-  "last_updated": "18/6/2026, 00.15.53 WIB",
+  "last_updated": "18/6/2026, 02.33.07 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -533,6 +533,15 @@
       "sisa": 20
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Freya Jayawardana",
+      "terjual": 198,
+      "sisa": 22
+    },
+    {
       "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -549,15 +558,6 @@
       "nama": "Febriola Sinambela",
       "terjual": 56,
       "sisa": 24
-    },
-    {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Freya Jayawardana",
-      "terjual": 193,
-      "sisa": 27
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -583,8 +583,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 49,
-      "sisa": 31
+      "terjual": 50,
+      "sisa": 30
     },
     {
       "sesi": "Sesi 2 (PASSION)",
@@ -740,6 +740,15 @@
       "sisa": 57
     },
     {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Kathrina Irene",
+      "terjual": 162,
+      "sisa": 58
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -754,15 +763,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 159,
-      "sisa": 61
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Kathrina Irene",
       "terjual": 159,
       "sisa": 61
     },
