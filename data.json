@@ -1,5 +1,5 @@
 {
-  "last_updated": "17/6/2026, 12.08.53 WIB",
+  "last_updated": "17/6/2026, 17.04.18 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -185,6 +185,15 @@
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
+      "jalur": "Jalur 3",
+      "nama": "Aurhel Alana",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Hillary Abigail",
       "terjual": 80,
@@ -457,8 +466,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Fritzy Rosmerian",
-      "terjual": 76,
-      "sisa": 4
+      "terjual": 79,
+      "sisa": 1
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -466,35 +475,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Fritzy Rosmerian",
-      "terjual": 76,
-      "sisa": 4
-    },
-    {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 3",
-      "nama": "Aurhel Alana",
-      "terjual": 76,
-      "sisa": 4
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 7",
-      "nama": "Ribka Budiman",
-      "terjual": 67,
-      "sisa": 13
-    },
-    {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Cynthia Yaputera",
-      "terjual": 66,
-      "sisa": 14
+      "terjual": 77,
+      "sisa": 3
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -502,8 +484,26 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Alya Amanda",
-      "terjual": 66,
-      "sisa": 14
+      "terjual": 70,
+      "sisa": 10
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 7",
+      "nama": "Ribka Budiman",
+      "terjual": 69,
+      "sisa": 11
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Cynthia Yaputera",
+      "terjual": 68,
+      "sisa": 12
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -517,6 +517,15 @@
     {
       "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Michelle Levia",
+      "terjual": 197,
+      "sisa": 23
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
@@ -524,22 +533,13 @@
       "sisa": 23
     },
     {
-      "sesi": "Sesi 2 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Michelle Levia",
-      "terjual": 194,
-      "sisa": 26
-    },
-    {
       "sesi": "Sesi 3 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 53,
-      "sisa": 27
+      "terjual": 54,
+      "sisa": 26
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -547,8 +547,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Michelle Alexandra",
-      "terjual": 188,
-      "sisa": 32
+      "terjual": 193,
+      "sisa": 27
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -556,8 +556,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 48,
-      "sisa": 32
+      "terjual": 51,
+      "sisa": 29
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -565,8 +565,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 47,
-      "sisa": 33
+      "terjual": 49,
+      "sisa": 31
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -574,6 +574,15 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
+      "terjual": 46,
+      "sisa": 34
+    },
+    {
+      "sesi": "Sesi 1 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
       "terjual": 44,
       "sisa": 36
     },
@@ -587,22 +596,22 @@
       "sisa": 36
     },
     {
-      "sesi": "Sesi 1 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Jessica Chandra",
-      "terjual": 40,
-      "sisa": 40
-    },
-    {
       "sesi": "Sesi 3 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 178,
-      "sisa": 42
+      "terjual": 179,
+      "sisa": 41
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Marsha Lenathea",
+      "terjual": 179,
+      "sisa": 41
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -614,22 +623,13 @@
       "sisa": 42
     },
     {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Marsha Lenathea",
-      "terjual": 177,
-      "sisa": 43
-    },
-    {
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Cynthia Yaputera",
-      "terjual": 35,
-      "sisa": 45
+      "terjual": 36,
+      "sisa": 44
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -637,8 +637,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
-      "terjual": 31,
-      "sisa": 49
+      "terjual": 33,
+      "sisa": 47
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -646,7 +646,16 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Hillary Abigail",
-      "terjual": 169,
+      "terjual": 171,
+      "sisa": 49
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 29,
       "sisa": 51
     },
     {
@@ -668,22 +677,13 @@
       "sisa": 51
     },
     {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 2",
-      "nama": "Aurellia",
-      "terjual": 28,
-      "sisa": 52
-    },
-    {
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 27,
-      "sisa": 53
+      "terjual": 28,
+      "sisa": 52
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -691,8 +691,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 25,
-      "sisa": 55
+      "terjual": 26,
+      "sisa": 54
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -722,6 +722,15 @@
       "sisa": 57
     },
     {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Cornelia Vanisa",
+      "terjual": 162,
+      "sisa": 58
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -742,18 +751,27 @@
     {
       "sesi": "Sesi 3 (PASSION)",
       "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Cornelia Vanisa",
-      "terjual": 161,
-      "sisa": 59
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Desy Natalia",
+      "terjual": 19,
+      "sisa": 61
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
+      "terjual": 158,
+      "sisa": 62
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 8",
+      "nama": "Nayla Suji",
       "terjual": 18,
       "sisa": 62
     },
@@ -767,22 +785,13 @@
       "sisa": 63
     },
     {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Gita Sekar Andarini",
-      "terjual": 156,
-      "sisa": 64
-    },
-    {
       "sesi": "Sesi 2 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 8",
-      "nama": "Nayla Suji",
-      "terjual": 16,
-      "sisa": 64
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Hillary Abigail",
+      "terjual": 155,
+      "sisa": 65
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -794,11 +803,11 @@
       "sisa": 66
     },
     {
-      "sesi": "Sesi 2 (LOVE)",
+      "sesi": "Sesi 3 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Hillary Abigail",
+      "jalur": "Jalur 3",
+      "nama": "Grace Octaviani",
       "terjual": 153,
       "sisa": 67
     },
@@ -812,6 +821,15 @@
       "sisa": 67
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Jesslyn Elly",
+      "terjual": 13,
+      "sisa": 67
+    },
+    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
@@ -819,15 +837,6 @@
       "nama": "Dena Natalia",
       "terjual": 13,
       "sisa": 67
-    },
-    {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Grace Octaviani",
-      "terjual": 152,
-      "sisa": 68
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -839,13 +848,13 @@
       "sisa": 68
     },
     {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
+      "sesi": "Sesi 4 (PASSION)",
+      "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Jesslyn Elly",
-      "terjual": 12,
-      "sisa": 68
+      "jalur": "Jalur 6",
+      "nama": "Desy Natalia",
+      "terjual": 11,
+      "sisa": 69
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -853,15 +862,6 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cathleen Nixie",
-      "terjual": 10,
-      "sisa": 70
-    },
-    {
-      "sesi": "Sesi 4 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 6",
-      "nama": "Desy Natalia",
       "terjual": 10,
       "sisa": 70
     },
@@ -916,26 +916,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Adeline Wijaya",
-      "terjual": 131,
-      "sisa": 89
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Oline Manuel",
-      "terjual": 109,
-      "sisa": 111
-    },
-    {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Indah Cahya",
-      "terjual": 108,
-      "sisa": 112
+      "terjual": 133,
+      "sisa": 87
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -943,8 +925,26 @@
       "jenis": "Photocard",
       "jalur": "Jalur 4",
       "nama": "Fiony Alveria",
-      "terjual": 108,
-      "sisa": 112
+      "terjual": 113,
+      "sisa": 107
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Indah Cahya",
+      "terjual": 112,
+      "sisa": 108
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Oline Manuel",
+      "terjual": 110,
+      "sisa": 110
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -952,8 +952,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Aurhel Alana",
-      "terjual": 99,
-      "sisa": 121
+      "terjual": 100,
+      "sisa": 120
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -963,6 +963,15 @@
       "nama": "Greesella Adhalia",
       "terjual": 96,
       "sisa": 124
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Mutiara Azzahra",
+      "terjual": 95,
+      "sisa": 125
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -977,10 +986,10 @@
       "sesi": "Sesi 3 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Mutiara Azzahra",
-      "terjual": 94,
-      "sisa": 126
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
+      "terjual": 90,
+      "sisa": 130
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -992,22 +1001,13 @@
       "sisa": 131
     },
     {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Jessica Chandra",
-      "terjual": 84,
-      "sisa": 136
-    },
-    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
       "jalur": "Jalur 4",
       "nama": "Cornelia Vanisa",
-      "terjual": 79,
-      "sisa": 141
+      "terjual": 82,
+      "sisa": 138
     },
     {
       "sesi": "Sesi 3 (PASSION)",
@@ -1028,6 +1028,15 @@
       "sisa": 148
     },
     {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 70,
+      "sisa": 150
+    },
+    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1046,15 +1055,6 @@
       "sisa": 152
     },
     {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Aurellia",
-      "terjual": 67,
-      "sisa": 153
-    },
-    {
       "sesi": "Sesi 1 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1062,6 +1062,15 @@
       "nama": "Michelle Levia",
       "terjual": 67,
       "sisa": 153
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Fritzy Rosmerian",
+      "terjual": 66,
+      "sisa": 154
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -1073,13 +1082,22 @@
       "sisa": 155
     },
     {
-      "sesi": "Sesi 3 (LOVE)",
+      "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Fritzy Rosmerian",
+      "jalur": "Jalur 1",
+      "nama": "Indah Cahya",
       "terjual": 63,
       "sisa": 157
+    },
+    {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 7",
+      "nama": "Victoria Kimberly",
+      "terjual": 60,
+      "sisa": 160
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -1091,31 +1109,13 @@
       "sisa": 161
     },
     {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Indah Cahya",
-      "terjual": 58,
-      "sisa": 162
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 7",
-      "nama": "Victoria Kimberly",
-      "terjual": 57,
-      "sisa": 163
-    },
-    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 52,
-      "sisa": 168
+      "terjual": 54,
+      "sisa": 166
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -1163,6 +1163,15 @@
       "sisa": 175
     },
     {
+      "sesi": "Sesi 4 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
+      "terjual": 45,
+      "sisa": 175
+    },
+    {
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1177,17 +1186,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 42,
-      "sisa": 178
-    },
-    {
-      "sesi": "Sesi 4 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Jessica Chandra",
-      "terjual": 42,
-      "sisa": 178
+      "terjual": 44,
+      "sisa": 176
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -1204,8 +1204,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Aurhel Alana",
-      "terjual": 39,
-      "sisa": 181
+      "terjual": 40,
+      "sisa": 180
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -1222,8 +1222,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 37,
-      "sisa": 183
+      "terjual": 38,
+      "sisa": 182
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -1240,8 +1240,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 33,
-      "sisa": 187
+      "terjual": 34,
+      "sisa": 186
     },
     {
       "sesi": "Sesi 2 (PASSION)",
@@ -1298,20 +1298,20 @@
       "sisa": 200
     },
     {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Cynthia Yaputera",
-      "terjual": 18,
-      "sisa": 202
-    },
-    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
+      "terjual": 19,
+      "sisa": 201
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Cynthia Yaputera",
       "terjual": 18,
       "sisa": 202
     },
@@ -1325,6 +1325,15 @@
       "sisa": 205
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 15,
+      "sisa": 205
+    },
+    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1334,13 +1343,13 @@
       "sisa": 206
     },
     {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
+      "sesi": "Sesi 1 (PASSION)",
+      "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
       "jalur": "Jalur 6",
-      "nama": "Shabilqis Naila",
-      "terjual": 14,
-      "sisa": 206
+      "nama": "Desy Natalia",
+      "terjual": 13,
+      "sisa": 207
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -1379,7 +1388,7 @@
       "sisa": 210
     },
     {
-      "sesi": "Sesi 1 (PASSION)",
+      "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
       "jalur": "Jalur 6",
@@ -1433,15 +1442,6 @@
       "sisa": 213
     },
     {
-      "sesi": "Sesi 2 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Desy Natalia",
-      "terjual": 7,
-      "sisa": 213
-    },
-    {
       "sesi": "Sesi 3 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1460,20 +1460,20 @@
       "sisa": 216
     },
     {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Celline Thefani",
-      "terjual": 1,
-      "sisa": 219
-    },
-    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
+      "terjual": 2,
+      "sisa": 218
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Celline Thefani",
       "terjual": 1,
       "sisa": 219
     }
