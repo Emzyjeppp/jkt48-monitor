@@ -1,5 +1,5 @@
 {
-  "last_updated": "19/6/2026, 20.46.09 WIB",
+  "last_updated": "19/6/2026, 23.25.22 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -520,8 +520,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
-      "terjual": 67,
-      "sisa": 13
+      "terjual": 68,
+      "sisa": 12
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -583,8 +583,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 53,
-      "sisa": 27
+      "terjual": 54,
+      "sisa": 26
     },
     {
       "sesi": "Sesi 2 (PASSION)",
@@ -619,8 +619,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 7",
       "nama": "Ribka Budiman",
-      "terjual": 43,
-      "sisa": 37
+      "terjual": 46,
+      "sisa": 34
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -655,8 +655,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Hillary Abigail",
-      "terjual": 177,
-      "sisa": 43
+      "terjual": 178,
+      "sisa": 42
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -664,8 +664,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 34,
-      "sisa": 46
+      "terjual": 36,
+      "sisa": 44
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -718,8 +718,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Dena Natalia",
-      "terjual": 28,
-      "sisa": 52
+      "terjual": 29,
+      "sisa": 51
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -776,20 +776,20 @@
       "sisa": 59
     },
     {
-      "sesi": "Sesi 2 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 8",
-      "nama": "Nayla Suji",
-      "terjual": 19,
-      "sisa": 61
-    },
-    {
       "sesi": "Sesi 3 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Desy Natalia",
+      "terjual": 20,
+      "sisa": 60
+    },
+    {
+      "sesi": "Sesi 2 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 8",
+      "nama": "Nayla Suji",
       "terjual": 19,
       "sisa": 61
     },
@@ -1024,8 +1024,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 73,
-      "sisa": 147
+      "terjual": 74,
+      "sisa": 146
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -1262,6 +1262,15 @@
       "sisa": 188
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Febriola Sinambela",
+      "terjual": 31,
+      "sisa": 189
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1287,15 +1296,6 @@
       "nama": "Dena Natalia",
       "terjual": 29,
       "sisa": 191
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Febriola Sinambela",
-      "terjual": 27,
-      "sisa": 193
     },
     {
       "sesi": "Sesi 1 (PASSION)",
