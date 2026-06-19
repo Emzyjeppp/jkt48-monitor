@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/6/2026, 03.09.42 WIB",
+  "last_updated": "20/6/2026, 04.35.59 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -668,6 +668,15 @@
       "sisa": 44
     },
     {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Cornelia Vanisa",
+      "terjual": 174,
+      "sisa": 46
+    },
+    {
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -675,15 +684,6 @@
       "nama": "Anindya Ramadhani",
       "terjual": 33,
       "sisa": 47
-    },
-    {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Cornelia Vanisa",
-      "terjual": 170,
-      "sisa": 50
     },
     {
       "sesi": "Sesi 1 (DREAM)",
