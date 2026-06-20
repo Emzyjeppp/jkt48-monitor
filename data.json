@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/6/2026, 16.52.58 WIB",
+  "last_updated": "20/6/2026, 18.55.19 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -601,8 +601,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Jessica Chandra",
-      "terjual": 52,
-      "sisa": 28
+      "terjual": 53,
+      "sisa": 27
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -637,8 +637,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cathleen Nixie",
-      "terjual": 44,
-      "sisa": 36
+      "terjual": 45,
+      "sisa": 35
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -920,6 +920,15 @@
       "sisa": 81
     },
     {
+      "sesi": "Sesi 3 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Mutiara Azzahra",
+      "terjual": 129,
+      "sisa": 91
+    },
+    {
       "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -965,22 +974,13 @@
       "sisa": 103
     },
     {
-      "sesi": "Sesi 3 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Mutiara Azzahra",
-      "terjual": 109,
-      "sisa": 111
-    },
-    {
       "sesi": "Sesi 3 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Greesella Adhalia",
-      "terjual": 99,
-      "sisa": 121
+      "terjual": 101,
+      "sisa": 119
     },
     {
       "sesi": "Sesi 3 (PASSION)",
@@ -1226,20 +1226,20 @@
       "sisa": 181
     },
     {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Gita Sekar Andarini",
-      "terjual": 38,
-      "sisa": 182
-    },
-    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Victoria Kimberly",
+      "terjual": 39,
+      "sisa": 181
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
       "terjual": 38,
       "sisa": 182
     },
@@ -1251,6 +1251,15 @@
       "nama": "Desy Natalia",
       "terjual": 37,
       "sisa": 183
+    },
+    {
+      "sesi": "Sesi 4 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Mutiara Azzahra",
+      "terjual": 35,
+      "sisa": 185
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -1375,15 +1384,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 15,
-      "sisa": 205
-    },
-    {
-      "sesi": "Sesi 4 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Mutiara Azzahra",
       "terjual": 15,
       "sisa": 205
     },
