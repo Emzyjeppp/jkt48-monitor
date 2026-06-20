@@ -1,5 +1,5 @@
 {
-  "last_updated": "20/6/2026, 06.47.27 WIB",
+  "last_updated": "20/6/2026, 08.56.38 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -520,8 +520,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
-      "terjual": 68,
-      "sisa": 12
+      "terjual": 69,
+      "sisa": 11
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -547,8 +547,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 203,
-      "sisa": 17
+      "terjual": 204,
+      "sisa": 16
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -1343,6 +1343,15 @@
       "sisa": 204
     },
     {
+      "sesi": "Sesi 1 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Desy Natalia",
+      "terjual": 16,
+      "sisa": 204
+    },
+    {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1375,15 +1384,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 14,
-      "sisa": 206
-    },
-    {
-      "sesi": "Sesi 1 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Desy Natalia",
       "terjual": 14,
       "sisa": 206
     },
