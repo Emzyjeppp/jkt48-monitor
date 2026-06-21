@@ -1,5 +1,5 @@
 {
-  "last_updated": "21/6/2026, 18.53.40 WIB",
+  "last_updated": "21/6/2026, 21.12.08 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -529,8 +529,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
-      "terjual": 69,
-      "sisa": 11
+      "terjual": 71,
+      "sisa": 9
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -538,8 +538,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 207,
-      "sisa": 13
+      "terjual": 208,
+      "sisa": 12
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -583,8 +583,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 56,
-      "sisa": 24
+      "terjual": 57,
+      "sisa": 23
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -596,20 +596,20 @@
       "sisa": 25
     },
     {
-      "sesi": "Sesi 2 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Jessica Chandra",
-      "terjual": 53,
-      "sisa": 27
-    },
-    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 7",
       "nama": "Ribka Budiman",
+      "terjual": 54,
+      "sisa": 26
+    },
+    {
+      "sesi": "Sesi 2 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Jessica Chandra",
       "terjual": 53,
       "sisa": 27
     },
@@ -664,8 +664,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 4",
       "nama": "Cornelia Vanisa",
-      "terjual": 182,
-      "sisa": 38
+      "terjual": 184,
+      "sisa": 36
     },
     {
       "sesi": "Sesi 1 (PASSION)",
@@ -700,8 +700,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Grace Octaviani",
-      "terjual": 174,
-      "sisa": 46
+      "terjual": 175,
+      "sisa": 45
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -961,8 +961,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 119,
-      "sisa": 101
+      "terjual": 120,
+      "sisa": 100
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -1051,8 +1051,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Lulu Salsabila",
-      "terjual": 76,
-      "sisa": 144
+      "terjual": 77,
+      "sisa": 143
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -1082,6 +1082,15 @@
       "sisa": 154
     },
     {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Adeline Wijaya",
+      "terjual": 66,
+      "sisa": 154
+    },
+    {
       "sesi": "Sesi 3 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1100,15 +1109,6 @@
       "sisa": 155
     },
     {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Adeline Wijaya",
-      "terjual": 65,
-      "sisa": 155
-    },
-    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1123,8 +1123,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 63,
-      "sisa": 157
+      "terjual": 64,
+      "sisa": 156
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -1373,17 +1373,17 @@
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 15,
-      "sisa": 205
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 16,
+      "sisa": 204
     },
     {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Shabilqis Naila",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
       "terjual": 15,
       "sisa": 205
     },
