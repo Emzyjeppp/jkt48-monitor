@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/6/2026, 04.50.00 WIB",
+  "last_updated": "23/6/2026, 06.12.07 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -542,6 +542,15 @@
       "sisa": 3
     },
     {
+      "sesi": "Sesi 4 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Fiony Alveria",
+      "terjual": 214,
+      "sisa": 6
+    },
+    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
@@ -630,15 +639,6 @@
       "nama": "Jessica Chandra",
       "terjual": 55,
       "sisa": 25
-    },
-    {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Fiony Alveria",
-      "terjual": 194,
-      "sisa": 26
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -979,8 +979,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 121,
-      "sisa": 99
+      "terjual": 122,
+      "sisa": 98
     },
     {
       "sesi": "Sesi 2 (LOVE)",
