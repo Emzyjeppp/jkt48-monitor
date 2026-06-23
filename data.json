@@ -1,5 +1,5 @@
 {
-  "last_updated": "23/6/2026, 06.12.07 WIB",
+  "last_updated": "23/6/2026, 08.25.18 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -21,6 +21,15 @@
     },
     {
       "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Fiony Alveria",
+      "terjual": 220,
+      "sisa": 0
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 4",
@@ -538,17 +547,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Hillary Abigail",
-      "terjual": 217,
-      "sisa": 3
-    },
-    {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Fiony Alveria",
-      "terjual": 214,
-      "sisa": 6
+      "terjual": 218,
+      "sisa": 2
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -556,8 +556,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 7",
       "nama": "Ribka Budiman",
-      "terjual": 70,
-      "sisa": 10
+      "terjual": 71,
+      "sisa": 9
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -691,8 +691,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Kathrina Irene",
-      "terjual": 185,
-      "sisa": 35
+      "terjual": 186,
+      "sisa": 34
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -1073,20 +1073,20 @@
       "sisa": 147
     },
     {
-      "sesi": "Sesi 4 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Indah Cahya",
-      "terjual": 68,
-      "sisa": 152
-    },
-    {
       "sesi": "Sesi 3 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Victoria Kimberly",
+      "terjual": 71,
+      "sisa": 149
+    },
+    {
+      "sesi": "Sesi 4 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Indah Cahya",
       "terjual": 68,
       "sisa": 152
     },
@@ -1276,8 +1276,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Ribka Budiman",
-      "terjual": 33,
-      "sisa": 187
+      "terjual": 34,
+      "sisa": 186
     },
     {
       "sesi": "Sesi 2 (DREAM)",
