@@ -1,5 +1,5 @@
 {
-  "last_updated": "24/6/2026, 00.13.20 WIB",
+  "last_updated": "24/6/2026, 02.21.10 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -619,8 +619,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Jessica Chandra",
-      "terjual": 68,
-      "sisa": 12
+      "terjual": 69,
+      "sisa": 11
     },
     {
       "sesi": "Sesi 3 (PASSION)",
@@ -713,6 +713,15 @@
       "sisa": 37
     },
     {
+      "sesi": "Sesi 1 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 39,
+      "sisa": 41
+    },
+    {
       "sesi": "Sesi 3 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -722,22 +731,13 @@
       "sisa": 43
     },
     {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 2",
-      "nama": "Aurellia",
-      "terjual": 37,
-      "sisa": 43
-    },
-    {
       "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "2-Shot",
       "jalur": "Jalur 3",
       "nama": "Raisha Syifa",
-      "terjual": 36,
-      "sisa": 44
+      "terjual": 37,
+      "sisa": 43
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -862,8 +862,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Celline Thefani",
-      "terjual": 16,
-      "sisa": 64
+      "terjual": 17,
+      "sisa": 63
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -1055,6 +1055,15 @@
       "sisa": 140
     },
     {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Marsha Lenathea",
+      "terjual": 78,
+      "sisa": 142
+    },
+    {
       "sesi": "Sesi 4 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1062,15 +1071,6 @@
       "nama": "Lulu Salsabila",
       "terjual": 78,
       "sisa": 142
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Marsha Lenathea",
-      "terjual": 77,
-      "sisa": 143
     },
     {
       "sesi": "Sesi 3 (PASSION)",
