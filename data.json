@@ -1,5 +1,5 @@
 {
-  "last_updated": "25/6/2026, 05.58.52 WIB",
+  "last_updated": "25/6/2026, 07.19.48 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -767,20 +767,20 @@
       "sisa": 47
     },
     {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 6",
-      "nama": "Helisma Putri",
-      "terjual": 32,
-      "sisa": 48
-    },
-    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
+      "terjual": 33,
+      "sisa": 47
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
       "terjual": 32,
       "sisa": 48
     },
@@ -1154,6 +1154,15 @@
       "sisa": 164
     },
     {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
+      "terjual": 56,
+      "sisa": 164
+    },
+    {
       "sesi": "Sesi 2 (PASSION)",
       "event": "PASSION (YOGYA)",
       "jenis": "Photocard",
@@ -1168,15 +1177,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 55,
-      "sisa": 165
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Gita Sekar Andarini",
       "terjual": 55,
       "sisa": 165
     },
@@ -1357,8 +1357,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 19,
-      "sisa": 201
+      "terjual": 20,
+      "sisa": 200
     },
     {
       "sesi": "Sesi 2 (DREAM)",
