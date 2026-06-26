@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/6/2026, 05.07.14 WIB",
+  "last_updated": "27/6/2026, 06.34.16 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -943,8 +943,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cathleen Nixie",
-      "terjual": 18,
-      "sisa": 62
+      "terjual": 19,
+      "sisa": 61
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -1186,8 +1186,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 62,
-      "sisa": 158
+      "terjual": 63,
+      "sisa": 157
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -1231,8 +1231,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Ribka Budiman",
-      "terjual": 51,
-      "sisa": 169
+      "terjual": 52,
+      "sisa": 168
     },
     {
       "sesi": "Sesi 4 (PASSION)",
@@ -1325,6 +1325,15 @@
       "sisa": 185
     },
     {
+      "sesi": "Sesi 1 (PASSION)",
+      "event": "PASSION (YOGYA)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 7",
+      "nama": "Ribka Budiman",
+      "terjual": 34,
+      "sisa": 186
+    },
+    {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -1332,15 +1341,6 @@
       "nama": "Febriola Sinambela",
       "terjual": 33,
       "sisa": 187
-    },
-    {
-      "sesi": "Sesi 1 (PASSION)",
-      "event": "PASSION (YOGYA)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 7",
-      "nama": "Ribka Budiman",
-      "terjual": 31,
-      "sisa": 189
     },
     {
       "sesi": "Sesi 1 (PASSION)",
