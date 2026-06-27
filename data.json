@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/6/2026, 03.14.47 WIB",
+  "last_updated": "28/6/2026, 04.32.40 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -596,6 +596,15 @@
       "sisa": 64
     },
     {
+      "sesi": "Sesi 1 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Celline Thefani",
+      "terjual": 14,
+      "sisa": 66
+    },
+    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -603,15 +612,6 @@
       "nama": "Jesslyn Elly",
       "terjual": 14,
       "sisa": 66
-    },
-    {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Celline Thefani",
-      "terjual": 13,
-      "sisa": 67
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -655,8 +655,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Jazzlyn Trisha",
-      "terjual": 119,
-      "sisa": 101
+      "terjual": 120,
+      "sisa": 100
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -799,8 +799,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 7",
       "nama": "Jazzlyn Trisha",
-      "terjual": 53,
-      "sisa": 167
+      "terjual": 54,
+      "sisa": 166
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -826,8 +826,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 44,
-      "sisa": 176
+      "terjual": 45,
+      "sisa": 175
     },
     {
       "sesi": "Sesi 4 (DREAM)",
