@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/6/2026, 04.32.40 WIB",
+  "last_updated": "28/6/2026, 05.40.49 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -448,8 +448,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 60,
-      "sisa": 20
+      "terjual": 61,
+      "sisa": 19
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -556,8 +556,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 8",
       "nama": "Nayla Suji",
-      "terjual": 24,
-      "sisa": 56
+      "terjual": 25,
+      "sisa": 55
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -614,6 +614,15 @@
       "sisa": 66
     },
     {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 151,
+      "sisa": 69
+    },
+    {
       "sesi": "Sesi 3 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -630,15 +639,6 @@
       "nama": "Gendis Mayrannisa",
       "terjual": 7,
       "sisa": 73
-    },
-    {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Aurellia",
-      "terjual": 146,
-      "sisa": 74
     },
     {
       "sesi": "Sesi 2 (DREAM)",
