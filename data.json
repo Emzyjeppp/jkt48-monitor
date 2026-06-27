@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/6/2026, 01.56.12 WIB",
+  "last_updated": "28/6/2026, 03.14.47 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -448,8 +448,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 59,
-      "sisa": 21
+      "terjual": 60,
+      "sisa": 20
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -538,8 +538,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Aurhel Alana",
-      "terjual": 166,
-      "sisa": 54
+      "terjual": 167,
+      "sisa": 53
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -866,6 +866,15 @@
       "sisa": 188
     },
     {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 28,
+      "sisa": 192
+    },
+    {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -882,15 +891,6 @@
       "nama": "Cathleen Nixie",
       "terjual": 24,
       "sisa": 196
-    },
-    {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 23,
-      "sisa": 197
     },
     {
       "sesi": "Sesi 3 (LOVE)",
