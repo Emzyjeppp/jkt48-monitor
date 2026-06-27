@@ -1,5 +1,5 @@
 {
-  "last_updated": "27/6/2026, 17.28.15 WIB",
+  "last_updated": "27/6/2026, 18.57.17 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -412,8 +412,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 73,
-      "sisa": 7
+      "terjual": 74,
+      "sisa": 6
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -421,8 +421,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 65,
-      "sisa": 15
+      "terjual": 66,
+      "sisa": 14
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -448,8 +448,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 52,
-      "sisa": 28
+      "terjual": 53,
+      "sisa": 27
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -628,8 +628,17 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Alya Amanda",
-      "terjual": 143,
-      "sisa": 77
+      "terjual": 144,
+      "sisa": 76
+    },
+    {
+      "sesi": "Sesi 3 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Aurellia",
+      "terjual": 133,
+      "sisa": 87
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -639,15 +648,6 @@
       "nama": "Oline Manuel",
       "terjual": 130,
       "sisa": 90
-    },
-    {
-      "sesi": "Sesi 3 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Aurellia",
-      "terjual": 128,
-      "sisa": 92
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -754,8 +754,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Aurhel Alana",
-      "terjual": 57,
-      "sisa": 163
+      "terjual": 58,
+      "sisa": 162
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -889,8 +889,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 20,
-      "sisa": 200
+      "terjual": 23,
+      "sisa": 197
     },
     {
       "sesi": "Sesi 2 (DREAM)",
