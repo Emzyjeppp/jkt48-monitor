@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/6/2026, 00.45.42 WIB",
+  "last_updated": "28/6/2026, 01.56.12 WIB",
   "data": [
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -439,8 +439,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cathleen Nixie",
-      "terjual": 62,
-      "sisa": 18
+      "terjual": 63,
+      "sisa": 17
     },
     {
       "sesi": "Sesi 1 (LOVE)",
@@ -457,8 +457,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Indah Cahya",
-      "terjual": 193,
-      "sisa": 27
+      "terjual": 194,
+      "sisa": 26
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -475,8 +475,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 2",
       "nama": "Anindya Ramadhani",
-      "terjual": 44,
-      "sisa": 36
+      "terjual": 46,
+      "sisa": 34
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -502,8 +502,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 34,
-      "sisa": 46
+      "terjual": 35,
+      "sisa": 45
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -565,8 +565,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Cathleen Nixie",
-      "terjual": 23,
-      "sisa": 57
+      "terjual": 24,
+      "sisa": 56
     },
     {
       "sesi": "Sesi 2 (LOVE)",
@@ -576,6 +576,15 @@
       "nama": "Celline Thefani",
       "terjual": 22,
       "sisa": 58
+    },
+    {
+      "sesi": "Sesi 1 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Alya Amanda",
+      "terjual": 160,
+      "sisa": 60
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -603,15 +612,6 @@
       "nama": "Celline Thefani",
       "terjual": 13,
       "sisa": 67
-    },
-    {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Alya Amanda",
-      "terjual": 150,
-      "sisa": 70
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -646,8 +646,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 130,
-      "sisa": 90
+      "terjual": 131,
+      "sisa": 89
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -664,8 +664,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Greesella Adhalia",
-      "terjual": 111,
-      "sisa": 109
+      "terjual": 112,
+      "sisa": 108
     },
     {
       "sesi": "Sesi 3 (LOVE)",
@@ -691,8 +691,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Cynthia Yaputera",
-      "terjual": 98,
-      "sisa": 122
+      "terjual": 99,
+      "sisa": 121
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -700,8 +700,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Indah Cahya",
-      "terjual": 98,
-      "sisa": 122
+      "terjual": 99,
+      "sisa": 121
     },
     {
       "sesi": "Sesi 4 (LOVE)",
@@ -740,6 +740,15 @@
       "sisa": 145
     },
     {
+      "sesi": "Sesi 2 (LOVE)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Cathleen Nixie",
+      "terjual": 71,
+      "sisa": 149
+    },
+    {
       "sesi": "Sesi 1 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -758,13 +767,13 @@
       "sisa": 155
     },
     {
-      "sesi": "Sesi 2 (LOVE)",
+      "sesi": "Sesi 1 (LOVE)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Cathleen Nixie",
-      "terjual": 58,
-      "sisa": 162
+      "jalur": "Jalur 2",
+      "nama": "Anindya Ramadhani",
+      "terjual": 56,
+      "sisa": 164
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -799,17 +808,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Aurellia",
-      "terjual": 50,
-      "sisa": 170
-    },
-    {
-      "sesi": "Sesi 1 (LOVE)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Anindya Ramadhani",
-      "terjual": 48,
-      "sisa": 172
+      "terjual": 52,
+      "sisa": 168
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -943,8 +943,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Celline Thefani",
-      "terjual": 12,
-      "sisa": 208
+      "terjual": 13,
+      "sisa": 207
     },
     {
       "sesi": "Sesi 4 (DREAM)",
