@@ -1,5 +1,5 @@
 {
-  "last_updated": "28/6/2026, 18.26.14 WIB",
+  "last_updated": "28/6/2026, 19.59.31 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -187,8 +187,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 35,
-      "sisa": 45
+      "terjual": 36,
+      "sisa": 44
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -295,8 +295,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 77,
-      "sisa": 143
+      "terjual": 82,
+      "sisa": 138
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -335,6 +335,15 @@
       "sisa": 174
     },
     {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 44,
+      "sisa": 176
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -362,15 +371,6 @@
       "sisa": 186
     },
     {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 28,
-      "sisa": 192
-    },
-    {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -383,19 +383,19 @@
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Shabilqis Naila",
-      "terjual": 19,
-      "sisa": 201
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 23,
+      "sisa": 197
     },
     {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 17,
-      "sisa": 203
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 19,
+      "sisa": 201
     },
     {
       "sesi": "Sesi 1 (DREAM)",
