@@ -1,5 +1,5 @@
 {
-  "last_updated": "29/6/2026, 23.09.56 WIB",
+  "last_updated": "30/6/2026, 01.24.05 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -182,6 +182,15 @@
       "sisa": 37
     },
     {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 39,
+      "sisa": 41
+    },
+    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -191,22 +200,13 @@
       "sisa": 42
     },
     {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 38,
-      "sisa": 42
-    },
-    {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 36,
-      "sisa": 44
+      "terjual": 37,
+      "sisa": 43
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -214,8 +214,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 33,
-      "sisa": 47
+      "terjual": 34,
+      "sisa": 46
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -263,6 +263,15 @@
       "sisa": 83
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 118,
+      "sisa": 102
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -270,15 +279,6 @@
       "nama": "Marsha Lenathea",
       "terjual": 118,
       "sisa": 102
-    },
-    {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 116,
-      "sisa": 104
     },
     {
       "sesi": "Sesi 4 (DREAM)",
