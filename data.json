@@ -1,5 +1,5 @@
 {
-  "last_updated": "29/6/2026, 08.57.06 WIB",
+  "last_updated": "29/6/2026, 14.00.19 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -142,8 +142,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 71,
-      "sisa": 9
+      "terjual": 73,
+      "sisa": 7
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -205,8 +205,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 33,
-      "sisa": 47
+      "terjual": 34,
+      "sisa": 46
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -214,8 +214,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 32,
-      "sisa": 48
+      "terjual": 33,
+      "sisa": 47
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -263,6 +263,15 @@
       "sisa": 87
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 116,
+      "sisa": 104
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -272,22 +281,13 @@
       "sisa": 105
     },
     {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 112,
-      "sisa": 108
-    },
-    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 92,
-      "sisa": 128
+      "terjual": 95,
+      "sisa": 125
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -304,8 +304,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 82,
-      "sisa": 138
+      "terjual": 84,
+      "sisa": 136
     },
     {
       "sesi": "Sesi 4 (DREAM)",
