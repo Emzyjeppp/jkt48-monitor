@@ -1,5 +1,5 @@
 {
-  "last_updated": "30/6/2026, 18.24.49 WIB",
+  "last_updated": "30/6/2026, 20.23.07 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -160,8 +160,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 195,
-      "sisa": 25
+      "terjual": 197,
+      "sisa": 23
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -317,6 +317,15 @@
       "sisa": 161
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
+      "terjual": 53,
+      "sisa": 167
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -335,11 +344,11 @@
       "sisa": 173
     },
     {
-      "sesi": "Sesi 3 (DREAM)",
+      "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Helisma Putri",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
       "terjual": 47,
       "sisa": 173
     },
@@ -349,15 +358,6 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 45,
-      "sisa": 175
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
       "terjual": 45,
       "sisa": 175
     },
@@ -383,17 +383,17 @@
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 24,
-      "sisa": 196
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 25,
+      "sisa": 195
     },
     {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Shabilqis Naila",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
       "terjual": 24,
       "sisa": 196
     },
