@@ -1,5 +1,5 @@
 {
-  "last_updated": "30/6/2026, 07.13.15 WIB",
+  "last_updated": "30/6/2026, 11.37.12 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -151,8 +151,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 71,
-      "sisa": 9
+      "terjual": 72,
+      "sisa": 8
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -169,8 +169,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 50,
-      "sisa": 30
+      "terjual": 51,
+      "sisa": 29
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -182,6 +182,15 @@
       "sisa": 37
     },
     {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
+      "terjual": 39,
+      "sisa": 41
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -189,15 +198,6 @@
       "nama": "Nina Tutachia",
       "terjual": 39,
       "sisa": 41
-    },
-    {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 6",
-      "nama": "Helisma Putri",
-      "terjual": 38,
-      "sisa": 42
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -268,8 +268,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 123,
-      "sisa": 97
+      "terjual": 124,
+      "sisa": 96
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -277,8 +277,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Greesella Adhalia",
-      "terjual": 118,
-      "sisa": 102
+      "terjual": 119,
+      "sisa": 101
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -394,8 +394,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 20,
-      "sisa": 200
+      "terjual": 22,
+      "sisa": 198
     },
     {
       "sesi": "Sesi 1 (DREAM)",
