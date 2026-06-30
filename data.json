@@ -1,5 +1,5 @@
 {
-  "last_updated": "1/7/2026, 04.53.07 WIB",
+  "last_updated": "1/7/2026, 06.11.55 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -119,6 +119,15 @@
       "sisa": 0
     },
     {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 80,
+      "sisa": 0
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "2-Shot",
@@ -135,15 +144,6 @@
       "nama": "Adeline Wijaya",
       "terjual": 80,
       "sisa": 0
-    },
-    {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 79,
-      "sisa": 1
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -259,8 +259,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 140,
-      "sisa": 80
+      "terjual": 141,
+      "sisa": 79
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -403,8 +403,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 17,
-      "sisa": 203
+      "terjual": 18,
+      "sisa": 202
     },
     {
       "sesi": "Sesi 1 (DREAM)",
