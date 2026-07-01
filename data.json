@@ -1,5 +1,5 @@
 {
-  "last_updated": "1/7/2026, 06.11.55 WIB",
+  "last_updated": "1/7/2026, 08.34.04 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -205,8 +205,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 39,
-      "sisa": 41
+      "terjual": 40,
+      "sisa": 40
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -277,8 +277,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 4",
       "nama": "Marsha Lenathea",
-      "terjual": 129,
-      "sisa": 91
+      "terjual": 133,
+      "sisa": 87
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -286,8 +286,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Greesella Adhalia",
-      "terjual": 119,
-      "sisa": 101
+      "terjual": 124,
+      "sisa": 96
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -344,6 +344,15 @@
       "sisa": 173
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Febriola Sinambela",
+      "terjual": 47,
+      "sisa": 173
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -351,15 +360,6 @@
       "nama": "Greesella Adhalia",
       "terjual": 47,
       "sisa": 173
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Febriola Sinambela",
-      "terjual": 46,
-      "sisa": 174
     },
     {
       "sesi": "Sesi 1 (DREAM)",
