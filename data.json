@@ -1,5 +1,5 @@
 {
-  "last_updated": "2/7/2026, 04.50.52 WIB",
+  "last_updated": "2/7/2026, 06.06.02 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -196,8 +196,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 55,
-      "sisa": 25
+      "terjual": 56,
+      "sisa": 24
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -317,6 +317,15 @@
       "sisa": 130
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 6",
+      "nama": "Shabilqis Naila",
+      "terjual": 70,
+      "sisa": 150
+    },
+    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -329,19 +338,10 @@
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 6",
-      "nama": "Shabilqis Naila",
-      "terjual": 64,
-      "sisa": 156
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 61,
-      "sisa": 159
+      "terjual": 62,
+      "sisa": 158
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -351,6 +351,15 @@
       "nama": "Helisma Putri",
       "terjual": 60,
       "sisa": 160
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 54,
+      "sisa": 166
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -365,19 +374,10 @@
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 52,
-      "sisa": 168
-    },
-    {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 45,
-      "sisa": 175
+      "terjual": 47,
+      "sisa": 173
     },
     {
       "sesi": "Sesi 3 (DREAM)",
