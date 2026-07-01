@@ -1,5 +1,5 @@
 {
-  "last_updated": "1/7/2026, 20.13.41 WIB",
+  "last_updated": "1/7/2026, 22.57.42 WIB",
   "data": [
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -160,8 +160,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 209,
-      "sisa": 11
+      "terjual": 219,
+      "sisa": 1
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -169,8 +169,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Adeline Wijaya",
-      "terjual": 208,
-      "sisa": 12
+      "terjual": 214,
+      "sisa": 6
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -178,8 +178,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 66,
-      "sisa": 14
+      "terjual": 69,
+      "sisa": 11
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -187,17 +187,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 55,
-      "sisa": 25
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 6",
-      "nama": "Helisma Putri",
-      "terjual": 47,
-      "sisa": 33
+      "terjual": 59,
+      "sisa": 21
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -205,6 +196,15 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
+      "terjual": 52,
+      "sisa": 28
+    },
+    {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 6",
+      "nama": "Helisma Putri",
       "terjual": 47,
       "sisa": 33
     },
@@ -214,8 +214,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 42,
-      "sisa": 38
+      "terjual": 43,
+      "sisa": 37
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -223,8 +223,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 166,
-      "sisa": 54
+      "terjual": 168,
+      "sisa": 52
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -232,26 +232,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
-      "terjual": 21,
-      "sisa": 59
-    },
-    {
-      "sesi": "Sesi 1 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "2-Shot",
-      "jalur": "Jalur 5",
-      "nama": "Jesslyn Elly",
-      "terjual": 18,
-      "sisa": 62
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Marsha Lenathea",
-      "terjual": 150,
-      "sisa": 70
+      "terjual": 22,
+      "sisa": 58
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -259,8 +241,26 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Freya Jayawardana",
-      "terjual": 149,
-      "sisa": 71
+      "terjual": 159,
+      "sisa": 61
+    },
+    {
+      "sesi": "Sesi 1 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "2-Shot",
+      "jalur": "Jalur 5",
+      "nama": "Jesslyn Elly",
+      "terjual": 19,
+      "sisa": 61
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 4",
+      "nama": "Marsha Lenathea",
+      "terjual": 157,
+      "sisa": 63
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -277,8 +277,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 4",
       "nama": "Gendis Mayrannisa",
-      "terjual": 8,
-      "sisa": 72
+      "terjual": 9,
+      "sisa": 71
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -286,8 +286,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Greesella Adhalia",
-      "terjual": 140,
-      "sisa": 80
+      "terjual": 141,
+      "sisa": 79
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -295,8 +295,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 89,
-      "sisa": 131
+      "terjual": 90,
+      "sisa": 130
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -313,8 +313,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 3",
       "nama": "Gita Sekar Andarini",
-      "terjual": 74,
-      "sisa": 146
+      "terjual": 76,
+      "sisa": 144
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -322,8 +322,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
-      "terjual": 59,
-      "sisa": 161
+      "terjual": 63,
+      "sisa": 157
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -333,6 +333,15 @@
       "nama": "Febriola Sinambela",
       "terjual": 57,
       "sisa": 163
+    },
+    {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 2",
+      "nama": "Greesella Adhalia",
+      "terjual": 56,
+      "sisa": 164
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -356,19 +365,10 @@
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 2",
-      "nama": "Greesella Adhalia",
-      "terjual": 50,
-      "sisa": 170
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Helisma Putri",
-      "terjual": 50,
-      "sisa": 170
+      "terjual": 51,
+      "sisa": 169
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -392,19 +392,19 @@
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 4",
-      "nama": "Gendis Mayrannisa",
-      "terjual": 28,
-      "sisa": 192
+      "jalur": "Jalur 5",
+      "nama": "Nina Tutachia",
+      "terjual": 30,
+      "sisa": 190
     },
     {
       "sesi": "Sesi 2 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Nina Tutachia",
-      "terjual": 27,
-      "sisa": 193
+      "jalur": "Jalur 4",
+      "nama": "Gendis Mayrannisa",
+      "terjual": 29,
+      "sisa": 191
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -412,8 +412,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 24,
-      "sisa": 196
+      "terjual": 27,
+      "sisa": 193
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -421,8 +421,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
-      "terjual": 17,
-      "sisa": 203
+      "terjual": 19,
+      "sisa": 201
     },
     {
       "sesi": "Sesi 4 (DREAM)",
