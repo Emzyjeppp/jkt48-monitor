@@ -1,5 +1,5 @@
 {
-  "last_updated": "2/7/2026, 03.12.40 WIB",
+  "last_updated": "2/7/2026, 04.50.52 WIB",
   "data": [
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -178,8 +178,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 1",
       "nama": "Febriola Sinambela",
-      "terjual": 72,
-      "sisa": 8
+      "terjual": 73,
+      "sisa": 7
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -187,8 +187,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Nina Tutachia",
-      "terjual": 65,
-      "sisa": 15
+      "terjual": 66,
+      "sisa": 14
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -232,8 +232,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 2",
       "nama": "Oline Manuel",
-      "terjual": 174,
-      "sisa": 46
+      "terjual": 175,
+      "sisa": 45
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -241,8 +241,8 @@
       "jenis": "Photocard",
       "jalur": "Jalur 4",
       "nama": "Marsha Lenathea",
-      "terjual": 171,
-      "sisa": 49
+      "terjual": 173,
+      "sisa": 47
     },
     {
       "sesi": "Sesi 2 (DREAM)",
@@ -250,8 +250,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
-      "terjual": 22,
-      "sisa": 58
+      "terjual": 23,
+      "sisa": 57
     },
     {
       "sesi": "Sesi 1 (DREAM)",
@@ -259,8 +259,8 @@
       "jenis": "2-Shot",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
-      "terjual": 21,
-      "sisa": 59
+      "terjual": 22,
+      "sisa": 58
     },
     {
       "sesi": "Sesi 3 (DREAM)",
@@ -299,6 +299,15 @@
       "sisa": 111
     },
     {
+      "sesi": "Sesi 4 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 3",
+      "nama": "Gita Sekar Andarini",
+      "terjual": 98,
+      "sisa": 122
+    },
+    {
       "sesi": "Sesi 1 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -306,15 +315,6 @@
       "nama": "Oline Manuel",
       "terjual": 90,
       "sisa": 130
-    },
-    {
-      "sesi": "Sesi 4 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 3",
-      "nama": "Gita Sekar Andarini",
-      "terjual": 78,
-      "sisa": 142
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -335,6 +335,15 @@
       "sisa": 156
     },
     {
+      "sesi": "Sesi 2 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 1",
+      "nama": "Febriola Sinambela",
+      "terjual": 61,
+      "sisa": 159
+    },
+    {
       "sesi": "Sesi 3 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
@@ -342,15 +351,6 @@
       "nama": "Helisma Putri",
       "terjual": 60,
       "sisa": 160
-    },
-    {
-      "sesi": "Sesi 2 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 1",
-      "nama": "Febriola Sinambela",
-      "terjual": 59,
-      "sisa": 161
     },
     {
       "sesi": "Sesi 4 (DREAM)",
@@ -376,6 +376,15 @@
       "jenis": "Photocard",
       "jalur": "Jalur 6",
       "nama": "Shabilqis Naila",
+      "terjual": 45,
+      "sisa": 175
+    },
+    {
+      "sesi": "Sesi 3 (DREAM)",
+      "event": "LOVE & DREAM (SBY)",
+      "jenis": "Photocard",
+      "jalur": "Jalur 5",
+      "nama": "Jesslyn Elly",
       "terjual": 45,
       "sisa": 175
     },
@@ -416,22 +425,13 @@
       "sisa": 191
     },
     {
-      "sesi": "Sesi 3 (DREAM)",
-      "event": "LOVE & DREAM (SBY)",
-      "jenis": "Photocard",
-      "jalur": "Jalur 5",
-      "nama": "Jesslyn Elly",
-      "terjual": 25,
-      "sisa": 195
-    },
-    {
       "sesi": "Sesi 4 (DREAM)",
       "event": "LOVE & DREAM (SBY)",
       "jenis": "Photocard",
       "jalur": "Jalur 5",
       "nama": "Jesslyn Elly",
-      "terjual": 13,
-      "sisa": 207
+      "terjual": 15,
+      "sisa": 205
     }
   ]
 }
